@@ -7,7 +7,6 @@ Lyric Word Counter requires:
 -numpy
 -collections counter
 -tkinter
--PIL (Install as "pillow")
 
 Be sure to install all required modules with pip before use.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
