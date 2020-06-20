@@ -1,6 +1,6 @@
 Lyric Word Counter requires:
 
--python
+-python 3.6
 -requests
 -BeautifulSoup 4
 -matplotlib
@@ -14,7 +14,7 @@ Be sure to install all required modules with pip before use.
 A stable and consistent internet connection is a prerequisite for running this program.
 
 
-
+Created in 2020 by Jack Hodge.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 MIT License
